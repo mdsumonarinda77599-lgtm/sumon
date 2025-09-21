@@ -1,0 +1,183 @@
+
+body {
+	margin:0px;
+	background: blue;
+	/* width: 1500px; */
+	height: 1500px;
+	
+	
+	
+}
+
+.sumon1 {
+	
+	margin-left: 52px;
+	margin-top: 52px;
+	color: blue;
+	border: 3px solid white;
+	padding: 8px;
+	border-radius: 12px ;
+	
+	
+}
+
+
+
+
+.sumon11 {
+	width: 160px;
+	height: 57px;
+	background:#c8d6e5;
+	overflow: hidden;
+	float: left;
+	border: 3px solid white;
+	position: sticky;
+	top:0px;
+
+}
+.sumon2 {
+	width: 160px;
+	height: 57px;
+	background: #d1ccc0;
+	float: left;
+	border: 3px solid white;
+	position: sticky;
+	top:0px;
+}
+.sumon3 {
+	width: 160px;
+	height: 57px;
+	background: #33d9b2;
+	float: left;
+	border: 3px solid white;
+	position: sticky;
+	top:0px;
+}
+.sumon4 {
+	width: 189px;
+	height: 57px;
+	background:#d1ccc0;
+	float: left;
+	border: 3px solid white;
+	position: sticky;
+	top:0px;
+}
+.sumon5 {
+	width: 160px;
+	height: 57px;
+	background:#ccae62;
+	float: left;
+	border: 3px solid white;
+	position: sticky;
+	top:0px;
+}
+.sumon6 {
+	width: 160px;
+	height: 57px;
+	background:#7bed9f;
+	float: left;
+	border: 3px solid white;
+	position: sticky;
+	top:0px;
+}
+.sumon7 {
+	width: 160px;
+	height: 57px;
+	background:#70a1ff;
+	float: left;
+	border: 3px solid white;
+	position: sticky;
+	top:0px;
+}
+.background {
+	width: 1185px;
+	height: 600px;
+	background: url("1000_F_621380970_R7J1LVl5jj0opdCWhU8QTGo8KU56G03x.jpg") ;
+	/* background-repeat: no-repeat; */
+	
+	
+	
+}
+.sumon11 a:hover {
+	background:black;
+	color: white;
+	
+}
+
+ 
+.sumon2 a:hover {
+	background:black;
+	color: white;
+	
+}
+
+.sumon3 a:hover {
+	background:black;
+	color: white;
+	
+}
+
+.sumon4 a:hover {
+	background:black;
+	color: white;
+	
+}
+
+.sumon5 a:hover {
+	background:black;
+	color: white;
+	
+}
+
+.sumon6 a:hover {
+	background:black;
+	color: white;
+	
+}
+
+.sumon7 a:hover {
+	background:black;
+	color: white;
+	
+}
+
+.sumon11 :hover {
+	background:black;
+	color: white;
+	
+}
+
+.sumon8 {
+	float: left;
+	
+		
+}
+
+
+.sumon8 ul li a:hover{
+	background: black;
+	color: white;
+	
+		
+}
+.sumon8 ul lu {
+	position: absolute;
+	display: none;
+	
+		
+}
+
+.sumon8 ul li a {
+	display: block;
+	
+	
+	
+	
+}
+.sumon8 ul li:hover ul {
+	display: block;
+	
+	
+}
+.sumon8 ul li:hover {
+	
